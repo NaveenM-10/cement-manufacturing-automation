@@ -210,4 +210,4 @@ Cement-Manufacturing-Automation/
   - dashboard.xlsx
 - images/
   - [charts.png](https://github.com/NaveenM-10/cement-manufacturing-automation/tree/main/Cement_manufacturing_automation)
-  - [README.md](https://github.com/NaveenM-10/optimization-kit-item-distribution/blob/main/README.md)
+  - [README.md](https://github.com/NaveenM-10/cement-manufacturing-automation/blob/main/README.md)
