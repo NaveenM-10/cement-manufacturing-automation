@@ -195,7 +195,7 @@ From the Above image we can see that there are 5514 records and 28 features in t
 <img src="https://github.com/NaveenM-10/cement-manufacturing-automation/blob/main/Cement_manufacturing_automation/Screenshot%202024-07-06%20204827.png"/>
 
 # Excel Dashboard
-<img src="https://github.com/NaveenM-10/cement-manufacturing-automation/blob/main/Cement_manufacturing_automation/Screenshot%202024-07-06%20204827.png"/>
+<img src="https://github.com/NaveenM-10/cement-manufacturing-automation/blob/main/Cement_manufacturing_automation/Screenshot%202024-07-06%20205507.png"/>
 
 ## Project Structure
 Cement-Manufacturing-Automation/
